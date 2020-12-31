@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/back.ico</file>
+        <file>img/cancel.ico</file>
+        <file>img/copy.ico</file>
+        <file>img/cut.ico</file>
+        <file>img/delete 1.ico</file>
+        <file>img/find next.ico</file>
+        <file>img/find.ico</file>
+        <file>img/insert.ico</file>
+        <file>img/new.ico</file>
+        <file>img/open envelope.ico</file>
+        <file>img/open.ico</file>
+        <file>img/save.ico</file>
+    </qresource>
+</RCC>
